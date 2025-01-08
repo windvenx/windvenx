@@ -14,12 +14,6 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=dinifarb&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&cache_control=86400)
 
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=dinifarb&cache_control=86400" />
-    </a>
-</p>[![Codewars](https://www.codewars.com/users/esenturDev/badges/large)](https://www.codewars.com/users/esenturDev)
-
 
 <div align="center">
   <a href="https://github.com/esenturDev">
