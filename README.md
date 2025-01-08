@@ -14,9 +14,11 @@
   ![Codewars](https://github.r2v.ch/codewars?user=dinifarb&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&cache_control=86400)
 
 <p align="center">
-[![codewars](https://www.codewars.com/users/windvenx/badges/large)](https://www.codewars.com/users/username) 
-  
+  <a href="https://www.codewars.com/users/username">
+    <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
+  </a>
 </p>
+
 
 <div align="center">
   <a href="https://github.com/esenturDev">
