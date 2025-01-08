@@ -13,7 +13,7 @@
 
   ![Codewars](https://github.r2v.ch/codewars?user=dinifarb&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&cache_control=86400)
 
-
+[![codewars](https://www.codewars.com/users/windvenx/badges/large)](https://www.codewars.com/users/username) 
 
 <div align="center">
   <a href="https://github.com/esenturDev">
