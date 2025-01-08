@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/esenturDev">
+  <a href="https://github.com/windvenx">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
