@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://www.codewars.com/users/username/windvenx">
+  <a href="https://www.codewars.com/users/windvenx">
     <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
   </a>
 </p>
