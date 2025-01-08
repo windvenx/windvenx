@@ -6,17 +6,24 @@
   </a>
 </p>
   -->
+<p align="center">
+  <a href="https://muniftanjim.dev#gh-dark-mode-only">
+    <img src="./mona-loading-dark.gif#gh-dark-mode-only" href="./mona-loading-dark.gif#gh-dark-mode-only" alt="Loading Animation" width="48" />
+  </a>
+  <a href="https://muniftanjim.dev#gh-light-mode-only">
+    <img src="./mona-loading-default.gif#gh-light-mode-only" href="./mona-loading-default.gif#gh-light-mode-only" alt="Loading Animation" width="48" />
+  </a>
+  <br />
+  <span>One moment please...</span>
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,npm,linux" />
 </p>
 
 
-<p align="center">
-  <a href="https://www.codewars.com/users/windvenx">
-    <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
-  </a>
-</p>
+
 
 
 <div align="center">
@@ -25,4 +32,10 @@
        alt="snake" /></a>
 </div>
 
+
+<p align="center">
+  <a href="https://www.codewars.com/users/windvenx">
+    <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
+  </a>
+</p>
 
