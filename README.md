@@ -12,20 +12,6 @@
 </p>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=dinifarb&theme=gradient&cache_control=86400)
-
-If you wish for other themes I am happy to take a pull request, just place your desired color set in the [themes.go](https://github.com/dinifarb/codewars_readme_stats/blob/master/codewars/themes.go) and [themes.md](https://github.com/dinifarb/codewars_readme_stats/blob/master/codewars/themes.md) file and your ready to go for the PR. For gradient themes see the special values for the `Card` property of the `Theme` struct. You can find more infos about how to add gradient values in the [themes.go](https://github.com/dinifarb/codewars_readme_stats/blob/master/codewars/themes.go) file.
-
-### Hide Clan
-
-```md
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&hide_clan=true)
-```
-> :warning: **Important:** 
-> This feature will eventually be expanded in a way to hide other infos like `honor` from the card. Therefore it is not guaranteed that it will stay exact the same.
-
-![Codewars](https://github.r2v.ch/codewars?user=dinifarb&hide_clan=true&cache_control=86400)
-
 ### All params together
 
 ```md
