@@ -1,11 +1,10 @@
 
-<!--
   <p align="center">
   <a href="https://www.metmuseum.org/art/collection/search/436105">
     <img alt="La Mort de Socrate" src="https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/art.jpg" />
   </a>
 </p>
-  -->
+  
 
 
 <p align="center">
