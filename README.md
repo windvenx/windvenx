@@ -21,6 +21,13 @@
        alt="snake" /></a>
 </div>
 
+<br>
+
+
+![](https://komarev.com/ghpvc/?username=windvenx)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windvenx&layout=compact)
+
 
 <br>
 <p align="center">
