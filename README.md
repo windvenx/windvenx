@@ -24,9 +24,10 @@
 <br>
 
 
-![](https://komarev.com/ghpvc/?username=windvenx)
-
+<!--![](https://komarev.com/ghpvc/?username=windvenx)-->
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windvenx&layout=compact)
+</div>
 
 
 <br>
