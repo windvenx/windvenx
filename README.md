@@ -26,7 +26,7 @@
 
 <!--![](https://komarev.com/ghpvc/?username=windvenx)-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windvenx&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windvenx&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 
