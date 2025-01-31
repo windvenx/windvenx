@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/windvenx">
-  <img src="https://github.com/windvenx/Github-snake-SVG/raw/master/snake.svg"
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
        alt="snake" /></a>
 </div>
 
