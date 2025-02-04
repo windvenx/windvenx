@@ -6,12 +6,6 @@
  -->
 
 
- <div align="center">
-  <img height="400" width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-  <br>
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,npm,linux," />
@@ -43,4 +37,12 @@
     <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
   </a>
 </p>
+
+  <br>
+
+
+
+<div align="center">
+  <img height="400" width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
