@@ -38,8 +38,6 @@
   <a href="https://www.codewars.com/users/windvenx">
     <img src="https://www.codewars.com/users/windvenx/badges/large" alt="Codewars Badge"/>
   </a>
-  [![wakatime](https://wakatime.com/badge/user/212386cc-752d-45ec-a2cc-006ca35697ba.svg?style=for-the-badge)](https://wakatime.com/@212386cc-752d-45ec-a2cc-006ca35697ba)
-
 </p>
 
 
