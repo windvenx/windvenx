@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,npm,linux,nestjs, docker, kubernetes, aws, ansible, gitlab" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,npm,linux,nestjs, docker, kubernetes, aws, ansible" />
 </p>
 
 
